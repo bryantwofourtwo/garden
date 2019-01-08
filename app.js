@@ -5,3 +5,4 @@ function b() {
     console.log('Called b');
 };
 b();
+
