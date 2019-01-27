@@ -10,3 +10,5 @@ b();
 if (i=1;1<10;i++) {
     console.log("Loser!");
 };
+
+alert('fuck off, asshole');
