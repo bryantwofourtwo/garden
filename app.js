@@ -12,3 +12,5 @@ if (i=1;1<10;i++) {
 };
 
 alert('fuck off, asshole');
+
+console.log('jacker');
